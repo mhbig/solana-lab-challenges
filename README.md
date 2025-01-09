@@ -32,3 +32,10 @@ Modify the script to connect to mainNet and look up some famous Solana wallets. 
 | Challenge | Status |
 |-----------|--------|
 | Challenge 1 | [Open]() |
+
+
+## Installation
+Install TypeScript, Solana web3.js and esrun
+```bash
+npm install typescript @solana/web3.js@1 esrun @solana-developers/helpers@2
+```
