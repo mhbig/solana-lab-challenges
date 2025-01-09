@@ -2,8 +2,12 @@
 My Solana Developers course challenges results
 
 ## Introduction to cryptography and Solana clients
+[Link to the course](https://solana.com/developers/courses/intro-to-solana)
+
 ### Read Data From The Solana Network
 The **Lab section** of the document guides users through coding exercises that demonstrate how to **connect to the Solana Devnet**, **retrieve the balance** of a specified **Solana wallet address**, and obtain free Devnet SOL for testing.
+
+[Link to the lesson](https://solana.com/developers/courses/intro-to-solana/intro-to-reading-data)
 
 #### Challenge 1
 ```typescript
@@ -31,7 +35,7 @@ Modify the script to connect to mainNet and look up some famous Solana wallets. 
 
 | Challenge | Status |
 |-----------|--------|
-| Challenge 1 | [Open]() |
+| Challenge 1 | [Solved](./course01/lesson02/check-balance.ts) |
 
 
 ## Installation
