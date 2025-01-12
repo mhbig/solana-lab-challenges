@@ -37,6 +37,12 @@ Modify the script to connect to mainNet and look up some famous Solana wallets. 
 |-----------|--------|
 | Challenge 1 | [Solved](./course01/lesson02/check-balance.ts) |
 
+#### Challenge 2
+Go ahead and create a script from scratch that will allow you to transfer SOL from one account to another on Devnet. Be sure to print out the transaction signature so you can look at it on Solana Explorer.
+
+| Challenge | Status |
+|-----------|--------|
+| Challenge 2 | [Solved](./course01/lesson05/transfer.ts) |
 
 ## Installation
 Install TypeScript, Solana web3.js and esrun
